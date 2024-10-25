@@ -1,5 +1,5 @@
 nginx
-consul:latest
+consul:1.15.4
 mysql
 minio
 redis 
